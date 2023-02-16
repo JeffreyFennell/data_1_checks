@@ -1,0 +1,16 @@
+Student Info
+
+    Email:      jeffrey.fennell@live.com
+    Name:       Jeffrey Fennell
+    Program:    Data Analysis 1
+    Class:      DA1 | Thursday January 2023
+
+Project Plan Scope
+
+    Project Objective:
+
+    Statement of Work:
+
+Project Features
+
+Document Links (optional)
