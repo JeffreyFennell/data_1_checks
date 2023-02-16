@@ -14,3 +14,7 @@ Project Plan Scope
 Project Features
 
 Document Links (optional)
+    Feature 1: (one of the features you are integrating into your project)
+    Feature 2: (one of the features you are integrating into your project)
+    Feature 3: (one of the features you are integrating into your project)
+    Feature 4: *optional* (one of the features you are integrating into your project)
